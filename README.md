@@ -43,4 +43,5 @@ python3 -m ipykernel install --name=env_frog
 **Check that your kernel has successfully changed**
 
 ![Change kernel](/images/tuto2.png)
+
 you can also run ```pip3 list```to see if all the packages are here
