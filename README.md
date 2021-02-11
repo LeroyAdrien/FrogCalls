@@ -12,7 +12,8 @@ This project relies on the [Anuran Calls (MFCCs) Data Set](https://archive.ics.u
 * references ```references/```
 * virtual environment : ```env_frog/```
 
-> **Note:** Repository is still under construction.
+
+> **Note:** Repository is 147.6 Mo big.
 
 ## How to use env
 
@@ -45,3 +46,7 @@ python3 -m ipykernel install --name=env_frog
 ![Change kernel](/images/tuto2.png)
 
 you can also run ```pip3 list```to see if all the packages are here
+
+**DISCLAIMER**
+
+This tutorial allowed me to use librosa to listen to the MFCCs audio reconstruction, it is not mandatory to use the env, especially since the other libraries should not cause any issues being installed
